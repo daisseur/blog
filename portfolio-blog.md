@@ -3,7 +3,7 @@
 Ce projet vise à créer un portfolio qui se présente comme un blog, avec une organisation inspirée de Git pour la gestion et la navigation des articles.
 
 Le brouillon initial est disponible ici : [Blog Git-like](https://github.com/daisseur/blog/blob/61ff6cbfd5aa4d0b13c14a51a7abe54ef69b5f30/README.md).
-
+Et la présentation du repo repo github du blog [ici](https://github.com/daisseur/blog/README.md) 
 
 
 ## Fonctionnalités principales
