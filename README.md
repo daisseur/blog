@@ -14,11 +14,11 @@ Pour une explication plus détaillée du projet, consultez [portfolio-blog.md](h
 
 
 ## Metadata des articles
-Pour permettre une meilleure organisation et recherche, chaque article peut inclure des métadonnées en haut du fichier Markdown via des sortes de commentaires:
+Pour permettre une meilleure organisation et recherche, chaque article peut inclure des métadonnées en haut du fichier Markdown via des sortes de commentaires (sans le !):
 ```markdown
-[title]: <> (Titre de l'article)
-[tags]: <> (tag1, tag2, tag3)
-[pinned]: <> (true/false)
+![title]: <> (Titre de l'article)
+![tags]: <> (tag1, tag2, tag3)
+![pinned]: <> (true/false)
 ```
 
 N'hésitez pas à explorer et à contribuer si vous avez des suggestions !
