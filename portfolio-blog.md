@@ -1,3 +1,5 @@
+[tags]: <> (github, profile, projects, open source, developer, portfolio, svelte, sveltekit, web development)
+
 # Portfolio Blog
 
 Ce projet vise à créer un portfolio qui se présente comme un blog, avec une organisation inspirée de Git pour la gestion et la navigation des articles.

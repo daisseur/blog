@@ -1,5 +1,6 @@
+[pinned]: <> (true)
 [title]: <> (daisseur - GitHub)
-[tags]: <> (github, profile, projects, open source, developer, portfolio, svelte, sveltekit, tauri, web development)
+[tags]: <> (github, profile, developer)
 
 <p align="center"><img src="https://github.com/user-attachments/assets/7e5c1cba-7b38-44c3-af6e-4c9af089e247"></p>
 
