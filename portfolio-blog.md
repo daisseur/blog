@@ -55,6 +55,9 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
 - **Traduction intelligente**  
     Utilisation de Groq pour traduire un post dans différents styles : français courant, français pro, anglais courant, anglais pro.
 
+- **Thème markdown alternatifs**
+    Proposer des thèmes markdown alternatifs au niveau des couleurs mais aussi d'autres façons de rendre le markdown (style obsidian, vscode). -> le problème c'est que ce ne sera pas le rendu voulu mais ça reste intéressant 
+
 
 
 
