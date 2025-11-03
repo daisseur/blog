@@ -21,4 +21,13 @@ Pour permettre une meilleure organisation et recherche, chaque article peut incl
 ![pinned]: <> (true/false)
 ```
 
+### Redirection vers fichier externe de github
+L'implémentation de cette idée pourrait être très pratique pour le suivi de projet/repo github, sans avoir à modifier à chaque fois
+Dans les tags je pourrais mettre une balise comme celle-ci: 
+```md
+![redirect]: <> (https://raw.githubusercontent.com/daisseur/blog/main/portfolio-blog.md)
+```
+> Il faudrait aussi faire une fonction de sanitize pour ne pas partager une xss si le repo venait à être compromis.
+
+
 N'hésitez pas à explorer et à contribuer si vous avez des suggestions !
