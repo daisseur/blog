@@ -55,9 +55,11 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
 - **Traduction intelligente**  
     Utilisation de Groq pour traduire un post dans différents styles : français courant, français pro, anglais courant, anglais pro.
 
-- **Thème markdown alternatifs**
+- **Thème markdown alternatifs**  
     Proposer des thèmes markdown alternatifs au niveau des couleurs mais aussi d'autres façons de rendre le markdown (style obsidian, vscode). -> le problème c'est que ce ne sera pas le rendu voulu mais ça reste intéressant 
 
 
-
+- **Jouer de la musique à la lecture de l'article**  
+    Grâce à une syntaxe particulière le client pourrait écouter la musique que l'article suggère, spotify/mp3. La syntaxe est encore à définir mais peut-être:  
+    `{{type: "MusicPlayer", "musicUrl": "https://share.daisseur.xyz/joyca.mp3"}}`
 
