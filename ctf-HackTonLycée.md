@@ -1,4 +1,3 @@
-[pinned]: <> (true)
 [title]: <> (CTF - Hack Ton Lycée)
 [tags]: <> (event, ctf, cyber, lycée, Y13)
 # CTF - Hack Ton Lycée 
