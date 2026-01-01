@@ -28,7 +28,7 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
     Les articles sont annotés avec le nom du commit de création et de dernière mise à jour (ex : `Created ef34cE.. - Last updated FGheJ4kc..`).
 
 - **Navigation inspirée de Git**  
-    Parcours des articles avec des indicateurs du type `HEAD~1`, `HEAD~21`, etc.
+    Parcours des articles avec des indicateurs du type `HEAD~1`, `HEAD~21`, etc. Pas encore implémenté.
 
 ## Les articles eux-mêmes
 
@@ -36,7 +36,7 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
     Si j'ai travaillé sur un projet qui mérite d'être publié, je mettrai sa présentation sur le blog en tant qu'article `projet` dans dans la branche `project`. A voir si je met les mêmes README.md qur sur les projets en question mais je ne pense pas.
 
 - **Article Web Intégré**
-    Des articles qui intégre des pages web, comme des projets de jeux sur daisseur.xyz, des petites pages interactives
+    Des articles qui intègrent des pages web, comme des projets de jeux sur daisseur.xyz, des petites pages interactives
 
 
 ## Ouverture et collaboration
@@ -62,4 +62,9 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
 - **Jouer de la musique à la lecture de l'article**  
     Grâce à une syntaxe particulière le client pourrait écouter la musique que l'article suggère, spotify/mp3. La syntaxe est encore à définir mais peut-être:  
     `{{type: "MusicPlayer", "musicUrl": "https://share.daisseur.xyz/joyca.mp3"}}`
+	
+	Finalement une bonne idée serait de faire un wrapper [strudel.cc](https://strudel.cc/#c2V0Q3BtKDEyOC80KQoka2ljazogcygiYmQgfiBiZCB%2BIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuOTUpCiRzbmFyZTogcygifiBzZCB%2BIHNkIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuOCkucm9vbSgwLjIpCiRoYXRzOiBzKCJoaCo4IikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKCJbLjQgLjZdKjQiKS5wYW4oc2luZS5yYW5nZSgwLjMsIDAuNykpCiRiYXNzOiBub3RlKCJjMiBjMiB%2BIGMyIikucygic2F3dG9vdGgiKS5scGYoNjAwKS5nYWluKDAuNikKJHBhZDogbm90ZSgiPFtjMyxlMyxnMyxiM10gW2EyLGMzLGUzLGczXT4iKS5zKCJzdXBlcnNhdyIpLmxwZihzaW5lLnJhbmdlKDgwMCwgMjAwMCkuc2xvdygxNikpLmF0dGFjaygwLjUpLnJlbGVhc2UoMSkucm9vbSgwLjgpLmdhaW4oMC4yKQokbGVhZDogbigiMCB%2BIDIgMyB%2BIDUgNyB%2BIikuc2NhbGUoImMzOm1ham9yIikucygidHJpYW5nbGUiKS5scGYoMjAwMCkuZ2FpbigwLjM1KS5kZWxheSgwLjMpLmRlbGF5dGltZSgzLzgpLmRlbGF5ZmVlZGJhY2soMC4zKQo%3D) et mettre des musiques qui me plaisent grâce à un convertisseur midi to strudel, avec un llm pour améliorer le résultat brut ( il y a de grande chances que je passe derrière). 
+	
+	Mais en tout cas il y aurait un player son assez discret, peut-être en flottant en centre bas ou alors dans la top bar...
+	
 
