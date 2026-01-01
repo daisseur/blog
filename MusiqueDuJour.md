@@ -1,5 +1,6 @@
+
 [title]: <> (MusiqueDuJour)
-[excerpt]: <> (Un site web qui permet de suivre et visualiser vos musiques préférées au fil du temps à travers un calendrier interactif.)
+[mediaUrl]: <> (https://music.daisseur.xyz/favicon.png)
 [tags]: <> (web, music, date, french, spotify, svelte, sveltekit, postgres, google, api, deezer, favorite, 2025)
 
 ## À propos du projet
