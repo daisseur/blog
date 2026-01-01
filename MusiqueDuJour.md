@@ -1,4 +1,3 @@
-
 [title]: <> (MusiqueDuJour)
 [mediaUrl]: <> (https://music.daisseur.xyz/favicon.png)
 [tags]: <> (web, music, date, french, spotify, svelte, sveltekit, postgres, google, api, deezer, favorite, 2025)
@@ -8,7 +7,7 @@
 **Musique du Jour** est un site web qui permet de suivre et visualiser vos musiques préférées au fil du temps à travers un calendrier interactif.
 
 **En développement depuis :** Début 2025
-J'ai eu beaucoup de mal à faire un interface qui tient la route...
+J'ai eu beaucoup de mal à faire un interface qui tienne la route... je vais encore essayer d'améliorer l'UI(cohérence de style entre bouttons etc) et l'UX(drag and drops un enfer à faire fonctionner comme je veux T-T :sob:)
 
 **Technologies utilisées:**
 - **Frontend:** SvelteKit 5 + TailwindCSS
