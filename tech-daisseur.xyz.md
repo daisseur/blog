@@ -1,7 +1,7 @@
 # daisseur.xyz
 Comment que ça marche mes site ? J'essaye de tout mettre en ordre...
 
-## Ancien fonctionnement: tunnel clodflare
+## Ancien fonctionnement: tunnel cloudflare
 Avant que je ne comprenne vraiment ce que faisait nginx, je faisais des tunnels couldflare, c'est-à-dire le service de reverse proxy de cloudflare, via son utilitaire [`cloudflared`](https://github.com/cloudflare/cloudflared).
 Ces tunnels me permettait de n'exposer aucun port de ma box, et de simple faire un tunnel d'un de mes ports en localhost vers un sous-domaine que j'avais avec cloudflare.
 
@@ -14,4 +14,4 @@ Puisque je tiens à ne pas me faire DDOS, j'ai activé l'option gratuit qui fait
 
 D'ailleurs bonne nouvelle j'ai un certificat SSL sur tous mes sites actuellement, enjoy !
 
-```en cours de rédaction```
+```en cours de rédaction...```
