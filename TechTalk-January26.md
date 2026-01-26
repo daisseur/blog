@@ -1,3 +1,6 @@
+[pinned]: <> (true)
+[title]: <> (Tech Talk 01/26)
+[tags]: <> (github, git, md, mdx, marked, remark, markdown, blog, react, jsx, integration, embed)
 # Choix importants pour le blog...
 
 **Tables des matières**:
