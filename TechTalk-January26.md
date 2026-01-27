@@ -7,6 +7,7 @@
   * [Le format fichier des articles](#le-format-fichier-des-articles)
   * [Un interpréteur de markdown](#un-interpréteur-de-markdown)
   * [Organisation du site](#organisation-du-site)
+  * [Compteur de vues pour article](#compteur-de-vues-pour-article)
 
 <br>
 
@@ -26,6 +27,10 @@
   >- Facilité de lecture : Un aspect esthétique pour le lecture qui lui permet de mieux comprendre, mieux se representer et mieux comprendre la structure de l'article 
   >
   > Une solution à tout ça pourrait être un [Interpréteur](#un-interpréteur-de-markdown)
+  >
+  > Donc pour répondre à la question initiale: le format mdx est customizable et donc plus souple, ça permet une meilleure fluidité dans l'écriture de l'article.
+
+
   ### Module de markdown
   Changer de language/format pour les articles m'ammène à me demander si je ne devrais pas délaisser le bon vieux module [`markedjs`](https://github.com/remarkjs/remark) 
   > bon exemple d'endroit où il serait sympa de juste mettre un {Integration('https://github.com/markedjs/marked')} ou un truc du genre pour afficher une preview de la page
@@ -45,3 +50,8 @@
 ## Organisation du site
   Ce serait vraiment bien d'avoir une partie du site un peu plus rédigé (peut-être avec des sections directement issu d'article mais pas sous forme directe de card) à part de la section blog.
   ```rédaction en cours...```
+
+<br>
+
+## Compteur de vues pour article
+Il faudrait faire un compteur qui permettrait de savoir combien de personnes ont vu l'article, même possiblement trier sur certaines périodes: total, dernière semaine, aujourd'hui. Les "vues uniques" seraient établis avec l'ip de la personne qui accède a la page de l'article et un cooldown de 1h a peu près ou moins.
