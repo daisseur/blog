@@ -3,7 +3,7 @@
 [tags]: <> (github, git, md, mdx, marked, remark, markdown, blog, react, jsx, integration, embed)
 # Choix importants pour le blog...
 
-**Tables des matières**:
+**Table des matières**:
   * [Le format fichier des articles](#le-format-fichier-des-articles)
   * [Un interpréteur de markdown](#un-interpréteur-de-markdown)
   * [Organisation du site](#organisation-du-site)
@@ -12,7 +12,7 @@
 <br>
 
 ## Le format fichier des articles
-  Actuellement je regardais les alternatives opensource qui se faisaient sur les portfolio en react/svelte et ce que j'ai remarqué c'est que certains portfolios utilisaient le format mdx au lieu du simple markdown. Ce qui correspond exactement à ce que j'essayais de faire depuis le début du projet. C'est-à-dire avoir des tags au début des fichiers markdown, avoir des intégrations... Mais le problème c'est que si je transforme les fichiers en mdx, ils ne pourront plus être lisible nativement sur github, ce qui enlève un peu de fun au projet.
+  Je regardais les alternatives opensource qui se faisaient sur les portfolio en react/svelte et ce que j'ai remarqué c'est que certains portfolios utilisaient le format mdx au lieu du simple markdown. Ce qui correspond exactement à ce que j'essayais de faire depuis le début du projet. C'est-à-dire avoir des tags au début des fichiers markdown, avoir des intégrations... Mais le problème c'est que si je transforme les fichiers en mdx, ils ne pourront plus être lisible nativement sur github, ce qui enlève un peu de fun au projet.
   
   >[!NOTE]
   **Mais le `mdx` c'est quoi ?** <br>
