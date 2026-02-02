@@ -13,7 +13,7 @@ Des idées du turfu pour faire un portfolio de dingue !
 <br>
 
 # Nouveau concept de page portfolio
-  Actuellement (début février) le blog est la partie majeure de mon site principal https://daisseur.xyz. J'aimerais changer ça comme je l'avais commencé à envisager ici: [Tech Talk 01/26](/blog/main/TechTalk-February26#organisation-du-site). Et pour ça je voudrais faire une page principale qui alternerait entre plusieurs versions de différents styles et créés avec plusieurs frameworks web javascript et donc des librairies d'ui/d'effets différentes elles aussi ! 
+  Actuellement (début février) le blog est la partie majeure de mon site principal https://daisseur.xyz. J'aimerais changer ça comme je l'avais commencé à envisager ici: [Tech Talk 01/26](/blog/main/TechTalk-January26.md#organisation-du-site). Et pour ça je voudrais faire une page principale qui alternerait entre plusieurs versions de différents styles et créés avec plusieurs frameworks web javascript et donc des librairies d'ui/d'effets différentes elles aussi ! 
   
   La composition de la page ne sera pas fondamentalement différente mais je compte intégrer un défilement semi-automatique entre les différentes pages chargés par les frameworks (je pense à vue, react, svelte et astro) et tout ça en utilisant probablement Astro, qui de ce que j'en sais, permet d'utiliser plusieurs frameworks dans un même site, j'essaierai de faire en sorte que l'on ne se rende pas compte que c'est un autre frameworks qui fait la partie de la page que l'on voit. Je sais que c'est possible en sveltekit avec des pages en svelte mais je ne sais pas du tout avec Astro, on va espérer, je tiendrais cette section ou les suivantes à jour dès que je m'en occuperai ! 
 <br>
