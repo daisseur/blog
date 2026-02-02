@@ -3,10 +3,10 @@
 # Portfolio Blog
 > En ligne (prod) sur [daisseur.xyz](https://daisseur.xyz/from/github) depuis le 19 octobre 2025 !!
 
-Ce projet vise à créer un portfolio qui se présente comme un blog, avec une organisation inspirée de Git pour la gestion et la navigation des articles.
+Ce projet vise à créer un portfolio qui se présente comme un blog, avec une organisation inspirée de Git (créé par notre bon vieux Linus Torvalds) pour la gestion et la navigation des articles.
 
 Le brouillon initial est disponible ici : [Blog Git-like](https://github.com/daisseur/blog/blob/61ff6cbfd5aa4d0b13c14a51a7abe54ef69b5f30/README.md).
-Et la présentation du repo repo github du blog [ici](https://github.com/daisseur/blog/README.md) 
+Et la présentation du repo Github du blog [ici](https://github.com/daisseur/blog/README.md).
 
 
 ## Fonctionnalités principales
@@ -28,7 +28,8 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
     Les articles sont annotés avec le nom du commit de création et de dernière mise à jour (ex : `Created ef34cE.. - Last updated FGheJ4kc..`).
 
 - **Navigation inspirée de Git**  
-    Parcours des articles avec des indicateurs du type `HEAD~1`, `HEAD~21`, etc. Pas encore implémenté.
+    Parcours des articles avec des indicateurs du type `HEAD`, `HEAD~1`, `HEAD~21`, etc. 
+    `Pas encore implémenté.`
 
 ## Les articles eux-mêmes
 
@@ -47,6 +48,7 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
 
 
 ## Extensions et idées
+Dorénavant la majorité des suggestions et idées seront évoqués dans un premier temps dans un Tech Talk avant d'être cité ici. Je laisse ces idées ici le temps que je me décide sur une section ou un article où les mettre.
 
 - **Composants GitHub intégrés**  
     Syntaxe spéciale dans les posts Markdown pour intégrer un composant GitHub d’un autre repo, par exemple :  
@@ -65,9 +67,9 @@ Et la présentation du repo repo github du blog [ici](https://github.com/daisseu
 	
 	Finalement une bonne idée serait de faire un wrapper [strudel.cc](https://strudel.cc/#c2V0Q3BtKDEyOC80KQoka2ljazogcygiYmQgfiBiZCB%2BIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuOTUpCiRzbmFyZTogcygifiBzZCB%2BIHNkIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuOCkucm9vbSgwLjIpCiRoYXRzOiBzKCJoaCo4IikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKCJbLjQgLjZdKjQiKS5wYW4oc2luZS5yYW5nZSgwLjMsIDAuNykpCiRiYXNzOiBub3RlKCJjMiBjMiB%2BIGMyIikucygic2F3dG9vdGgiKS5scGYoNjAwKS5nYWluKDAuNikKJHBhZDogbm90ZSgiPFtjMyxlMyxnMyxiM10gW2EyLGMzLGUzLGczXT4iKS5zKCJzdXBlcnNhdyIpLmxwZihzaW5lLnJhbmdlKDgwMCwgMjAwMCkuc2xvdygxNikpLmF0dGFjaygwLjUpLnJlbGVhc2UoMSkucm9vbSgwLjgpLmdhaW4oMC4yKQokbGVhZDogbigiMCB%2BIDIgMyB%2BIDUgNyB%2BIikuc2NhbGUoImMzOm1ham9yIikucygidHJpYW5nbGUiKS5scGYoMjAwMCkuZ2FpbigwLjM1KS5kZWxheSgwLjMpLmRlbGF5dGltZSgzLzgpLmRlbGF5ZmVlZGJhY2soMC4zKQo%3D) et mettre des musiques qui me plaisent grâce à un convertisseur midi to strudel, avec un llm pour améliorer le résultat brut ( il y a de grande chances que je passe derrière). 
 
- Ça pourrait être dingue de faire un article qui en fait est juste une page qui joue en temps réel ce que je fais sur mon host sur les clients, algorave en live ! (possible avec le wrapper strudel.cc)
+    Ça pourrait être dingue de faire un article qui en fait est juste une page qui joue en temps réel ce que je fais sur mon host sur les clients, algorave en live ! (possible avec le wrapper strudel.cc)
 	
-	Mais en tout cas il y aurait un player son assez discret, peut-être en flottant en centre bas ou alors dans la top bar...
+    *Mais en tout cas il y aurait un player son assez discret, peut-être en flottant en centre bas ou alors dans la top bar...*
 
 	
 
