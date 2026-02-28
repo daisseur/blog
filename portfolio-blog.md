@@ -1,6 +1,6 @@
 [tags]: <> (github, profile, projects, open source, developer, portfolio, svelte, sveltekit, web development)
 
-# Portfolio Blog
+# Portfolio Blog 
 > En ligne (prod) sur [daisseur.xyz](https://daisseur.xyz/from/github) depuis le 19 octobre 2025 !!
 
 Ce projet vise à créer un portfolio qui se présente comme un blog, avec une organisation inspirée de Git (créé par notre bon vieux Linus Torvalds) pour la gestion et la navigation des articles.
@@ -9,7 +9,7 @@ Le brouillon initial est disponible ici : [Blog Git-like](https://github.com/dai
 Et la présentation du repo Github du blog [ici](https://github.com/daisseur/blog/README.md).
 
 
-## Fonctionnalités principales
+## Fonctionnalités principales <a id="Fonctionnalités-principales"></a>
 
 - **Affichage des projets**  
     Un bouton permet de trier les posts par tag, par exemple "project".
@@ -22,7 +22,7 @@ Et la présentation du repo Github du blog [ici](https://github.com/daisseur/blo
     > Ajouter une colonne `tags` pour accélérer la recherche des posts.
 
 
-## Organisation des articles
+## Organisation des articles <a id="Organisation-des-articles"></a>
 
 - **Structure Git-like**  
     Les articles sont annotés avec le nom du commit de création et de dernière mise à jour (ex : `Created ef34cE.. - Last updated FGheJ4kc..`).
@@ -31,7 +31,7 @@ Et la présentation du repo Github du blog [ici](https://github.com/daisseur/blo
     Parcours des articles avec des indicateurs du type `HEAD`, `HEAD~1`, `HEAD~21`, etc. 
     `Pas encore implémenté.`
 
-## Les articles eux-mêmes
+## Les articles eux-mêmes <a id="Les-articles-eux-mêmes"></a>
 
 - **Article projet**
     Si j'ai travaillé sur un projet qui mérite d'être publié, je mettrai sa présentation sur le blog en tant qu'article `projet` dans dans la branche `project`. A voir si je met les mêmes README.md qur sur les projets en question mais je ne pense pas.
@@ -40,14 +40,14 @@ Et la présentation du repo Github du blog [ici](https://github.com/daisseur/blo
     Des articles qui intègrent des pages web, comme des projets de jeux sur daisseur.xyz, des petites pages interactives
 
 
-## Ouverture et collaboration
+## Ouverture et collaboration <a id="Ouverture-et-collaboration"></a>
 
 - **Dépôt GitHub public**  
     Le blog est hébergé sur GitHub pour permettre à tous de consulter les articles, soumettre des pull requests ou ouvrir des issues.
 
 
 
-## Extensions et idées
+## Extensions et idées <a id="Extensions-et-idées"></a>
 Dorénavant la majorité des suggestions et idées seront évoqués dans un premier temps dans un Tech Talk avant d'être cité ici. Je laisse ces idées ici le temps que je me décide sur une section ou un article où les mettre.
 
 - **Composants GitHub intégrés**  
