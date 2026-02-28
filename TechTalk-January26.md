@@ -12,6 +12,7 @@ Quelque choix importants pour le futur de ce blog. Mais avant ça: C'est quoi un
 * [Compteur de vues pour article](#Compteur-de-vues-pour-article)
 
 <br>
+
 # Le TechTalk <a id="Le-TechTalk"></a>
   Le TechTalk se présente sous la forme d'un petit article qui est en fait un point sur mes avancées et idées pour mes projets de dev en général mais notamment sur ce blog. Ce format me permet de partager mes idées, mais aussi de les mettre en ordres de façon un peu chronologique.
   
@@ -49,6 +50,7 @@ Un bon exemple de l'utilité du TechTalk concerne ce blog, pour témoigner de l'
   
   pour une alternative plus moderne comme [`remark`](https://github.com/remarkjs/remark) et qui lui supporte avec un plugin largement reonnu le mdx.
 <br>
+
 ## Un interpréteur de markdown <a id="Un-interpréteur-de-markdown"></a>
   Un bon compromis pourrait être un interpréteur qui convertirait mon texte en mdx et en markdown classique en même temps (2 versions alternative) pour satisfaire les 2 points que je viens de citer plus l'accessibilité des articles en markdown simple et efficace sur github ou autre.
 
@@ -56,10 +58,12 @@ Un bon exemple de l'utilité du TechTalk concerne ce blog, pour témoigner de l'
 
   Actuellement j'utilise Obsidian ou tout simplement l'éditeur github.
 <br>
+
 ## Organisation du site <a id="Organisation-du-site"></a>
   Ce serait vraiment bien d'avoir une partie du site un peu plus rédigé (peut-être avec des sections directement issu d'article mais pas sous forme directe de card) à part de la section blog.
   ```à développer...```
 <br>
+
 ## Compteur de vues pour article <a id="Compteur-de-vues-pour-article"></a>
   Un compteur de vues permettrait de savoir combien de personnes ont vu l'article, et même possiblement trier sur certaines périodes: total, dernière semaine, aujourd'hui. Les "vues uniques" seraient établis avec l'ip de la personne qui accède a la page de l'article et un cooldown de 1h a peu près ou moins.
 
